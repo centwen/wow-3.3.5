@@ -1,0 +1,5 @@
+data
+Crashes
+*.log
+*.pdb
+*.zip
